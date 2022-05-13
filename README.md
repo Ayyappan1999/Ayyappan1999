@@ -11,6 +11,8 @@
 
 - 😉 Front-End Developer
 
+- 💙 Python Programmer
+
 - 🌸Crush @ kali Linux
 
 - 🏆 Hackthebox ♡ Tryhackme
