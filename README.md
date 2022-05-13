@@ -9,11 +9,15 @@
 
 - 👨‍💻 I’m interested in Cyber Security
 
+- 😉 Front-End Developer
+
 - 🌸Crush @ kali Linux
 
 - 🏆 Hackthebox ♡ Tryhackme
 
-- 📫 How to reach me **ayyappan.a0999@gmail.com**
+- 📫 Trainee Security Consultant @ Cysec Security
+
+- ❤️ Cyber Security & Web Penetration Testing @ Hackup Technology 
 
 - 📄 My experiences [https://drive.google.com/file/d/1SsqAxeTis9P--zxZ6s1W4-RRqdcbusRD/view?usp=sharing](https://drive.google.com/file/d/1SsqAxeTis9P--zxZ6s1W4-RRqdcbusRD/view?usp=sharing)
 
