@@ -45,7 +45,8 @@
 
 [🚀 Click the link to verify my badge](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=hqWJSSaxuLyKuc1QNwEK3WFNRdJEYAm50xRacp36o8c=)
 
-![CEH Badge](https://github.com/Ayyappan1999/Ayyappan1999/assets/61587800/636be225-fc88-419a-8ed9-e5c5aff0bd16)
+![CEH Badge](https://github.com/Ayyappan1999/Ayyappan1999/assets/61587800/c41c917d-f3ea-4823-bd3d-f6ae2824dd37)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayyappan1999&show_icons=true&locale=en&layout=compact" alt="ayyappan1999" /></p>
 
